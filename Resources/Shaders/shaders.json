@@ -1,0 +1,18 @@
+{
+    "shaders": [
+        {
+            "name": "TriangleVS",
+            "entry": "main",
+            "type": "vs_5_0",
+            "file": "vertex.hlsl",
+            "output": "TriangleVS.cso"
+        },
+        {
+            "name": "TrianglePS",
+            "entry": "main",
+            "type": "ps_5_0",
+            "file": "pixel.hlsl",
+            "output": "TrianglePS.cso"
+        }
+    ]
+}
